@@ -1,0 +1,1410 @@
+fileFormatVersion: 2
+guid: e991299f22e02f84d916a73f968517da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1972717486173575291
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_0
+  - first:
+      213: -6425171508171946483
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_1
+  - first:
+      213: 2132560658813667539
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_2
+  - first:
+      213: 6002195404846369800
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_3
+  - first:
+      213: -930943505117289885
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_4
+  - first:
+      213: -1238061628427060416
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_5
+  - first:
+      213: 5761502774073677290
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_6
+  - first:
+      213: 5319323265589351093
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_7
+  - first:
+      213: -2387058712563859942
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_8
+  - first:
+      213: 4733041251070317864
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_9
+  - first:
+      213: 6058948828499580238
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_10
+  - first:
+      213: -3484484585344793250
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_11
+  - first:
+      213: -7554573759988176010
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_12
+  - first:
+      213: -1291886262913075866
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_13
+  - first:
+      213: -4938098735864408192
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_14
+  - first:
+      213: -216223155922847462
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_15
+  - first:
+      213: 3994077685084133369
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_16
+  - first:
+      213: 2268421706471179972
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_17
+  - first:
+      213: 7540809217811882134
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_18
+  - first:
+      213: 4456370411101996987
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_19
+  - first:
+      213: 2935150665282431996
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_20
+  - first:
+      213: 4459012445521698066
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_21
+  - first:
+      213: -4360398608433296172
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_22
+  - first:
+      213: 5527726437494643643
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_23
+  - first:
+      213: 5344104106429251300
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_24
+  - first:
+      213: 228742165399304967
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_25
+  - first:
+      213: -2843942875208482503
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_26
+  - first:
+      213: 5389092488280807970
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_27
+  - first:
+      213: 4643659648114796266
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_28
+  - first:
+      213: -2183233318057479916
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_29
+  - first:
+      213: -5198524468501694973
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_30
+  - first:
+      213: -5324222766388417390
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_31
+  - first:
+      213: 2004903199503257287
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_32
+  - first:
+      213: -7516890326431963054
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_33
+  - first:
+      213: -6283773276162585496
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_34
+  - first:
+      213: 4993056677948764147
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_35
+  - first:
+      213: -7313388106021625857
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_36
+  - first:
+      213: -5887596888688664498
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_37
+  - first:
+      213: 7551321335865054628
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_38
+  - first:
+      213: -1387290044176515789
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_39
+  - first:
+      213: -3658642928483085225
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_40
+  - first:
+      213: -2607994913397661226
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_41
+  - first:
+      213: 4695846048031238733
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_42
+  - first:
+      213: -7899312741191198033
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_43
+  - first:
+      213: -3991277892473582393
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_44
+  - first:
+      213: 5681420471446340059
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_45
+  - first:
+      213: 4845848104552490595
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_46
+  - first:
+      213: -30566719663639517
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_47
+  - first:
+      213: 2589402904377422381
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_48
+  - first:
+      213: 7170244500320899400
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_49
+  - first:
+      213: 5437022029925952536
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_50
+  - first:
+      213: 6593779148798710850
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_51
+  - first:
+      213: 7063339257906974028
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_52
+  - first:
+      213: 6009602568305577107
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_53
+  - first:
+      213: -6546571417387824844
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_54
+  - first:
+      213: -3292755188683358995
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_55
+  - first:
+      213: 4088869255337847947
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_56
+  - first:
+      213: 6497660425885205056
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_57
+  - first:
+      213: 3382382848035597197
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_58
+  - first:
+      213: -1037707607287507450
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_59
+  - first:
+      213: 3237200727321722975
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_60
+  - first:
+      213: 3920859715128956994
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_61
+  - first:
+      213: -6225050496704268660
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_62
+  - first:
+      213: -3555766061119546402
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_63
+  - first:
+      213: 9037712823484138116
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_64
+  - first:
+      213: -4431626562432278260
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_65
+  - first:
+      213: 7288912068983686551
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_66
+  - first:
+      213: 8677412250323146832
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_67
+  - first:
+      213: -805189596217257988
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_68
+  - first:
+      213: 3157654609369652130
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_69
+  - first:
+      213: 3609898007760213038
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_70
+  - first:
+      213: 8118378410466217278
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_71
+  - first:
+      213: -7145788161287212220
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_72
+  - first:
+      213: -1616474674347627701
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Skeleton_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 90
+        width: 34
+        height: 55
+      alignment: 9
+      pivot: {x: 0.49683693, y: 0.5664709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5872c62f5ef7f94e0800000000000000
+      internalID: -1972717486173575291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8cf82de90689d10800000000000000
+      internalID: 2132560658813667539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 392
+        width: 56
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5000015, y: 0.5241474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5d61d4f38f4ff40800000000000000
+      internalID: 5761502774073677290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 392
+        width: 60
+        height: 58
+      alignment: 9
+      pivot: {x: 0.50344646, y: 0.54278827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b29ceab35802d940800000000000000
+      internalID: 5319323265589351093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 391
+        width: 58
+        height: 60
+      alignment: 9
+      pivot: {x: 0.49841073, y: 0.5383881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e31a38fb67fded0800000000000000
+      internalID: -2387058712563859942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 391
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825115de0f32fa140800000000000000
+      internalID: 4733041251070317864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 391
+        width: 47
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.518124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e459cfa9bd5b51450800000000000000
+      internalID: 6058948828499580238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 392
+        width: 43
+        height: 58
+      alignment: 9
+      pivot: {x: 0.508711, y: 0.53390396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5503313bbf94afc0800000000000000
+      internalID: -3484484585344793250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_12
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 393
+        width: 42
+        height: 58
+      alignment: 9
+      pivot: {x: 0.50891984, y: 0.5322897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bea6ee033c82790800000000000000
+      internalID: -7554573759988176010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 312
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0871ff6ec59587bb0800000000000000
+      internalID: -4938098735864408192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 312
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19310f6f22dffcf0800000000000000
+      internalID: -216223155922847462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 311
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f711c83e70dd6730800000000000000
+      internalID: 3994077685084133369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 311
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6000ff58d0b7f10800000000000000
+      internalID: 2268421706471179972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_18
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 311
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6902baad70656a860800000000000000
+      internalID: 7540809217811882134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_19
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 311
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7cb4d274538dd30800000000000000
+      internalID: 4456370411101996987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_20
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 311
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb296e9affbbb820800000000000000
+      internalID: 2935150665282431996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_21
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 312
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ddd50c13891ed30800000000000000
+      internalID: 4459012445521698066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 235
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b77c999c7ac2300800000000000000
+      internalID: 228742165399304967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 235
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a14b1c017e9ca40800000000000000
+      internalID: 5389092488280807970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 235
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6a2b7c8d7917040800000000000000
+      internalID: 4643659648114796266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 151
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c8c398f7d8bc8a0800000000000000
+      internalID: -6283773276162585496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_35
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 151
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff27802896ea4540800000000000000
+      internalID: 4993056677948764147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 92
+        width: 34
+        height: 53
+      alignment: 9
+      pivot: {x: 0.52213985, y: 0.57506573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a590111fbeabc860800000000000000
+      internalID: 7551321335865054628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_44
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 88
+        width: 37
+        height: 48
+      alignment: 9
+      pivot: {x: 0.48861653, y: 0.6436489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc0e3b47e12c98c0800000000000000
+      internalID: -3991277892473582393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 90
+        width: 34
+        height: 52
+      alignment: 9
+      pivot: {x: 0.48872516, y: 0.6108011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324ff7cfab7639ff0800000000000000
+      internalID: -30566719663639517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_54
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 87
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5076172, y: 0.9461637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4398fd92bf7e525a0800000000000000
+      internalID: -6546571417387824844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_55
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 87
+        width: 37
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5082348, y: 1.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec34360a98cd42d0800000000000000
+      internalID: -3292755188683358995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_56
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 88
+        width: 38
+        height: 22
+      alignment: 9
+      pivot: {x: 0.49264365, y: 1.4556524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cad698ce49eb830800000000000000
+      internalID: 4088869255337847947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_63
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb549e4b9167aec0800000000000000
+      internalID: -3555766061119546402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_64
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 0
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482c3c9dde76c6d70800000000000000
+      internalID: 9037712823484138116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_65
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 0
+        width: 53
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4581961, y: 0.42957968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01e9090f13bf72c0800000000000000
+      internalID: -4431626562432278260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_66
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 60
+        height: 74
+      alignment: 9
+      pivot: {x: 0.499999, y: 0.4295796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79584de88ea672560800000000000000
+      internalID: 7288912068983686551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_67
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 63
+        height: 74
+      alignment: 9
+      pivot: {x: 0.53787667, y: 0.4311918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058522e777c5c6870800000000000000
+      internalID: 8677412250323146832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_68
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 64
+        height: 73
+      alignment: 9
+      pivot: {x: 0.53787667, y: 0.4311918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff41ac045463d4f0800000000000000
+      internalID: -805189596217257988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_69
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 0
+        width: 64
+        height: 73
+      alignment: 9
+      pivot: {x: 0.53787667, y: 0.4311918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab5ad2232e32db20800000000000000
+      internalID: 3157654609369652130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_70
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 0
+        width: 81
+        height: 61
+      alignment: 9
+      pivot: {x: 0.28177446, y: 0.52195257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2410fbac1fe81230800000000000000
+      internalID: 3609898007760213038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_71
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 0
+        width: 107
+        height: 61
+      alignment: 9
+      pivot: {x: 0.0515228, y: 0.5378526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d0a0cb6264aa070800000000000000
+      internalID: 8118378410466217278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_72
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 0
+        width: 106
+        height: 61
+      alignment: 9
+      pivot: {x: 0.0515228, y: 0.5378526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443b84ef68f05dc90800000000000000
+      internalID: -7145788161287212220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Skeleton_73
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 0
+        width: 36
+        height: 60
+      alignment: 9
+      pivot: {x: 0.49569362, y: 0.551674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b281f19d02199e0800000000000000
+      internalID: -1616474674347627701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6e13a47070286c845a571d3fc5f3eae1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_0: -1972717486173575291
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_1: -6425171508171946483
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_10: 6058948828499580238
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_11: -3484484585344793250
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_12: -7554573759988176010
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_13: -1291886262913075866
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_14: -4938098735864408192
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_15: -216223155922847462
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_16: 3994077685084133369
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_17: 2268421706471179972
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_18: 7540809217811882134
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_19: 4456370411101996987
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_2: 2132560658813667539
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_20: 2935150665282431996
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_21: 4459012445521698066
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_22: -4360398608433296172
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_23: 5527726437494643643
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_24: 5344104106429251300
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_25: 228742165399304967
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_26: -2843942875208482503
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_27: 5389092488280807970
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_28: 4643659648114796266
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_29: -2183233318057479916
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_3: 6002195404846369800
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_30: -5198524468501694973
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_31: -5324222766388417390
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_32: 2004903199503257287
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_33: -7516890326431963054
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_34: -6283773276162585496
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_35: 4993056677948764147
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_36: -7313388106021625857
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_37: -5887596888688664498
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_38: 7551321335865054628
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_39: -1387290044176515789
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_4: -930943505117289885
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_40: -3658642928483085225
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_41: -2607994913397661226
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_42: 4695846048031238733
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_43: -7899312741191198033
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_44: -3991277892473582393
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_45: 5681420471446340059
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_46: 4845848104552490595
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_47: -30566719663639517
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_48: 2589402904377422381
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_49: 7170244500320899400
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_5: -1238061628427060416
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_50: 5437022029925952536
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_51: 6593779148798710850
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_52: 7063339257906974028
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_53: 6009602568305577107
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_54: -6546571417387824844
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_55: -3292755188683358995
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_56: 4088869255337847947
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_57: 6497660425885205056
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_58: 3382382848035597197
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_59: -1037707607287507450
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_6: 5761502774073677290
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_60: 3237200727321722975
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_61: 3920859715128956994
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_62: -6225050496704268660
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_63: -3555766061119546402
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_64: 9037712823484138116
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_65: -4431626562432278260
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_66: 7288912068983686551
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_67: 8677412250323146832
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_68: -805189596217257988
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_69: 3157654609369652130
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_7: 5319323265589351093
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_70: 3609898007760213038
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_71: 8118378410466217278
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_72: -7145788161287212220
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_73: -1616474674347627701
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_8: -2387058712563859942
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Skeleton_9: 4733041251070317864
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

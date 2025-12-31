@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: 8c56f832adf23a349bcb3c37785bdd67
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 302385038605621804
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_0
+  - first:
+      213: 928628861478924111
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_1
+  - first:
+      213: 938144624712708074
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_2
+  - first:
+      213: -9063262628710013135
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_3
+  - first:
+      213: -6741027283467824681
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_4
+  - first:
+      213: 8843378266703754150
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_5
+  - first:
+      213: 7480023209688526909
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_6
+  - first:
+      213: 2498029286747835306
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_7
+  - first:
+      213: 376806785305235957
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_8
+  - first:
+      213: 7335532490045030590
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_9
+  - first:
+      213: -3589650388533468279
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_10
+  - first:
+      213: 416382263377608615
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_11
+  - first:
+      213: -5530421404883712506
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_12
+  - first:
+      213: -6787550110957822302
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_13
+  - first:
+      213: 3255978863773211745
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_14
+  - first:
+      213: 4387260428633982273
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_15
+  - first:
+      213: 7229095395197614233
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_16
+  - first:
+      213: 3099462439923765696
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_17
+  - first:
+      213: -5273132270329647896
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_18
+  - first:
+      213: 8476946298296193791
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_19
+  - first:
+      213: -1079456346453312851
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_20
+  - first:
+      213: -4740449031843543478
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_21
+  - first:
+      213: -233728890442123815
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_22
+  - first:
+      213: 4971479837767750108
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_23
+  - first:
+      213: -150827826390645299
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_24
+  - first:
+      213: -8475255026596594392
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_25
+  - first:
+      213: -7195829845577801683
+    second: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 202
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab8023b668caa220800000000000000
+      internalID: 2498029286747835306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 224
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4778b871cf42c4190fd6c7cb0c6f7a
+      internalID: 302385038605621804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3128be50ce3d75241abe60fcd77f3ca4
+      internalID: 928628861478924111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78c8f02a7941e34aa69b555f799513c
+      internalID: 938144624712708074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffdbb63d9fbb11498089989e2056283
+      internalID: -9063262628710013135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5b0d8da078546d04082d9b9fd6e04116
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_0: 302385038605621804
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_1: 928628861478924111
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_10: -3589650388533468279
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_11: 416382263377608615
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_12: -5530421404883712506
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_13: -6787550110957822302
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_14: 3255978863773211745
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_15: 4387260428633982273
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_16: 7229095395197614233
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_17: 3099462439923765696
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_18: -5273132270329647896
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_19: 8476946298296193791
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_2: 938144624712708074
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_20: -1079456346453312851
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_21: -4740449031843543478
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_22: -233728890442123815
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_23: 4971479837767750108
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_24: -150827826390645299
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_25: -8475255026596594392
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_26: -7195829845577801683
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_3: -9063262628710013135
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_4: -6741027283467824681
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_5: 8843378266703754150
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_6: 7480023209688526909
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_7: 2498029286747835306
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_8: 376806785305235957
+      PC _ Computer - Boom (MacOs) - Tilesets - Breakable Tiles_9: 7335532490045030590
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

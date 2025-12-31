@@ -1,0 +1,1655 @@
+fileFormatVersion: 2
+guid: 06cb48d78e741924295e37768d71ddc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3141905550755753484
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_0
+  - first:
+      213: 8617767200063799919
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_1
+  - first:
+      213: 5580868493497045755
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_2
+  - first:
+      213: 3080101462841482147
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_3
+  - first:
+      213: 3563445137736478149
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_4
+  - first:
+      213: 7336975626299744163
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_5
+  - first:
+      213: -1684666489286798045
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_6
+  - first:
+      213: -7201662035379904155
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_7
+  - first:
+      213: -4539648765336189623
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_8
+  - first:
+      213: 4261650955919646191
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_9
+  - first:
+      213: 4007585164662273696
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_10
+  - first:
+      213: -6310775569085940512
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_11
+  - first:
+      213: -6452690655334812262
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_12
+  - first:
+      213: -1036941561164371328
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_13
+  - first:
+      213: -1931825520456532718
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_14
+  - first:
+      213: -452356144614540688
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_15
+  - first:
+      213: 7072902315497756551
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_16
+  - first:
+      213: 7116613407982677487
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_17
+  - first:
+      213: 5322263700872962312
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_18
+  - first:
+      213: -3518292134218246944
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_19
+  - first:
+      213: -5372426472105323257
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_20
+  - first:
+      213: -7279648572398285447
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_21
+  - first:
+      213: 2885739426551039788
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_22
+  - first:
+      213: 6022872617776504391
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_23
+  - first:
+      213: -4422874006528862163
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_24
+  - first:
+      213: 2491719247964283816
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_25
+  - first:
+      213: 8054726720941506315
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_26
+  - first:
+      213: 8471831793178991500
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_27
+  - first:
+      213: 5147805210147336061
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_28
+  - first:
+      213: 372657506564451210
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_29
+  - first:
+      213: 8650717415130238392
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_30
+  - first:
+      213: -4062449366216083430
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_31
+  - first:
+      213: -8712834284570432612
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_32
+  - first:
+      213: -8895015618838525174
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_33
+  - first:
+      213: -2221947502981980009
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_34
+  - first:
+      213: 4944635559630371907
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_35
+  - first:
+      213: 1328218026445921388
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_36
+  - first:
+      213: -5733781912830712617
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_37
+  - first:
+      213: -677750516090438241
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_38
+  - first:
+      213: 8830203840096679113
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_39
+  - first:
+      213: 5842237531175292280
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_40
+  - first:
+      213: 4555128524942332232
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_41
+  - first:
+      213: -5694898034818996340
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_42
+  - first:
+      213: -8475081084247595405
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_43
+  - first:
+      213: -7172107736383446231
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_44
+  - first:
+      213: 750807821678895153
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_45
+  - first:
+      213: -6688835385949191840
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_46
+  - first:
+      213: -8099133637153866375
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_47
+  - first:
+      213: 2645576565641026792
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_48
+  - first:
+      213: -4930861313795400856
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_49
+  - first:
+      213: -2610253993947703504
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_50
+  - first:
+      213: 2479846244147244400
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_51
+  - first:
+      213: -7977142194473063345
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_52
+  - first:
+      213: -8107530243915269771
+    second: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+      - Flames_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 47
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0eef9ea37a4a9b20800000000000000
+      internalID: 3141905550755753484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 47
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62c0dc0c95789770800000000000000
+      internalID: 8617767200063799919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 47
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf29f0d735a337d40800000000000000
+      internalID: 5580868493497045755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abd3dc16f7beba20800000000000000
+      internalID: 3080101462841482147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 47
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd206b0976e37130800000000000000
+      internalID: 3563445137736478149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 47
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af9b4b857c22d560800000000000000
+      internalID: 7336975626299744163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 47
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3255e05f0ccde98e0800000000000000
+      internalID: -1684666489286798045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 47
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561a3cce88e8e0c90800000000000000
+      internalID: -7201662035379904155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 47
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9458811008deff0c0800000000000000
+      internalID: -4539648765336189623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed5b4817fc642b30800000000000000
+      internalID: 4261650955919646191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 47
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6f1d2697dcd9730800000000000000
+      internalID: 4007585164662273696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 31
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec3b6b4e0f9b68a0800000000000000
+      internalID: -6310775569085940512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 41
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95394b69007376a0800000000000000
+      internalID: -6452690655334812262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 47
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a65f1e42b0c91f0800000000000000
+      internalID: -1036941561164371328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 31
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d7725ace6c035e0800000000000000
+      internalID: -1931825520456532718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 47
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07af840bb78e8b9f0800000000000000
+      internalID: -452356144614540688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 31
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787184e9e2ff72260800000000000000
+      internalID: 7072902315497756551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_17
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 47
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fede69a603a43c260800000000000000
+      internalID: 7116613407982677487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 47
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8012d7b23aa7cd940800000000000000
+      internalID: 5322263700872962312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 31
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4ded3d1f38c2fc0800000000000000
+      internalID: -3518292134218246944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 29
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705d144869e4175b0800000000000000
+      internalID: -5372426472105323257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 25
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d4580513e79fa90800000000000000
+      internalID: -7279648572398285447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 9
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c270ae918b43c0820800000000000000
+      internalID: 2885739426551039788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74edefd3cba859350800000000000000
+      internalID: 6022872617776504391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 15
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28d982468bce92c0800000000000000
+      internalID: -4422874006528862163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a32aee447d549220800000000000000
+      internalID: 2491719247964283816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 31
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fb094e64328cf60800000000000000
+      internalID: 8054726720941506315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b5b45512ef19570800000000000000
+      internalID: 8471831793178991500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_28
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 31
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7facbb709da07740800000000000000
+      internalID: 5147805210147336061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_29
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 31
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b28ad1702fb2500800000000000000
+      internalID: 372657506564451210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_30
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 31
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd8f15d7a58d0870800000000000000
+      internalID: 8650717415130238392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_31
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 31
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18fda043d74f97c0800000000000000
+      internalID: -4062449366216083430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_32
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 31
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ba559716bc51780800000000000000
+      internalID: -8712834284570432612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b04972c6e8e8480800000000000000
+      internalID: -8895015618838525174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7906137b48e0a21e0800000000000000
+      internalID: -2221947502981980009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c788bf7dfde9440800000000000000
+      internalID: 4944635559630371907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c54920247ce6210800000000000000
+      internalID: 1328218026445921388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d46a2aaab38d60b0800000000000000
+      internalID: -5733781912830712617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d771a1f752896f0800000000000000
+      internalID: -677750516090438241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_39
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4b04fab9f2b8a70800000000000000
+      internalID: 8830203840096679113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_40
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 10
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d8823c41cc31150800000000000000
+      internalID: 5842237531175292280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_41
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841df636241173f30800000000000000
+      internalID: 4555128524942332232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_42
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c872b820968a7f0b0800000000000000
+      internalID: -5694898034818996340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_43
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3762ac228a6726a80800000000000000
+      internalID: -8475081084247595405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_44
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923a802630e877c90800000000000000
+      internalID: -7172107736383446231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_45
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13061c16cb76b6a00800000000000000
+      internalID: 750807821678895153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_46
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0618f6bc7ab7c23a0800000000000000
+      internalID: -6688835385949191840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_47
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97db6093ed81a9f80800000000000000
+      internalID: -8099133637153866375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_48
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 10
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec912d9ed9f6b420800000000000000
+      internalID: 2645576565641026792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b528a82cf029bb0800000000000000
+      internalID: -4930861313795400856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037d33d72d386cbd0800000000000000
+      internalID: -2610253993947703504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dabff250f2a6220800000000000000
+      internalID: 2479846244147244400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_52
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c27a7507f7b4190800000000000000
+      internalID: -7977142194473063345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous
+        - Flames_53
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579b1bdd2344c7f80800000000000000
+      internalID: -8107530243915269771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_0: 3141905550755753484
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_1: 8617767200063799919
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_10: 4007585164662273696
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_11: -6310775569085940512
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_12: -6452690655334812262
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_13: -1036941561164371328
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_14: -1931825520456532718
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_15: -452356144614540688
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_16: 7072902315497756551
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_17: 7116613407982677487
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_18: 5322263700872962312
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_19: -3518292134218246944
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_2: 5580868493497045755
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_20: -5372426472105323257
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_21: -7279648572398285447
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_22: 2885739426551039788
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_23: 6022872617776504391
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_24: -4422874006528862163
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_25: 2491719247964283816
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_26: 8054726720941506315
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_27: 8471831793178991500
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_28: 5147805210147336061
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_29: 372657506564451210
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_3: 3080101462841482147
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_30: 8650717415130238392
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_31: -4062449366216083430
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_32: -8712834284570432612
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_33: -8895015618838525174
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_34: -2221947502981980009
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_35: 4944635559630371907
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_36: 1328218026445921388
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_37: -5733781912830712617
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_38: -677750516090438241
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_39: 8830203840096679113
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_4: 3563445137736478149
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_40: 5842237531175292280
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_41: 4555128524942332232
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_42: -5694898034818996340
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_43: -8475081084247595405
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_44: -7172107736383446231
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_45: 750807821678895153
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_46: -6688835385949191840
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_47: -8099133637153866375
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_48: 2645576565641026792
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_49: -4930861313795400856
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_5: 7336975626299744163
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_50: -2610253993947703504
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_51: 2479846244147244400
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_52: -7977142194473063345
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_53: -8107530243915269771
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_6: -1684666489286798045
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_7: -7201662035379904155
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_8: -4539648765336189623
+      PlayStation - Final Fantasy Origins_ Final Fantasy 2 - Miscellaneous - Flames_9: 4261650955919646191
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Weapon
+  - Enemy
+  - Pinchos
+  - Objeto
+  - Sierra
+  - Boton
+  - Entorno
+  - Meta
+  - Despawner
+  - Canvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemies
+  - Ground
+  - Objetos
+  - PlayerInmune
+  - EnemyInmune
+  - PartesObjetoRoto
+  - Arboles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FondoMovil
+    uniqueID: 2662033057
+    locked: 0
+  m_RenderingLayers:
+  - Default

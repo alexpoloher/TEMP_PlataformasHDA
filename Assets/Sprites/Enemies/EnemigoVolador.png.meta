@@ -1,0 +1,1153 @@
+fileFormatVersion: 2
+guid: 29a0fffd20cc6c840b1131b650dd5c26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8315491697417662245
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_0
+  - first:
+      213: 1608268221193847053
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_1
+  - first:
+      213: 957475961789344687
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_2
+  - first:
+      213: -5026248028321690520
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_3
+  - first:
+      213: -6983051080045182220
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_4
+  - first:
+      213: -2111916369867934372
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_5
+  - first:
+      213: 4121954834792254610
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_6
+  - first:
+      213: -5693798682238012940
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_7
+  - first:
+      213: 7167295360488131004
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_8
+  - first:
+      213: -192897706401853752
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_9
+  - first:
+      213: 2790806783190311848
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_10
+  - first:
+      213: -7175732600406839595
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_11
+  - first:
+      213: -4359412601424885777
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_12
+  - first:
+      213: 989745648829854864
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_13
+  - first:
+      213: 4567926603142402567
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_14
+  - first:
+      213: -4726003098905395363
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_15
+  - first:
+      213: 8094071035402189536
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_16
+  - first:
+      213: 1783450199379762945
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_17
+  - first:
+      213: -3600735989097329764
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_18
+  - first:
+      213: -1889991570745763858
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_19
+  - first:
+      213: 7259369252900535733
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_20
+  - first:
+      213: 3178204672258339746
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_21
+  - first:
+      213: -4845567551868566942
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_22
+  - first:
+      213: 3508799770274756664
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_23
+  - first:
+      213: -5137113082190174273
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_24
+  - first:
+      213: 8770232156563241927
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_25
+  - first:
+      213: 2796738947096402214
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_26
+  - first:
+      213: -2671090896563513215
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_27
+  - first:
+      213: -3453906877303411449
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_28
+  - first:
+      213: 8531698646289680739
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_29
+  - first:
+      213: 737625120620386024
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_30
+  - first:
+      213: 1070743256754550478
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_31
+  - first:
+      213: -142505130005335715
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_32
+  - first:
+      213: 3595843708747827346
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_33
+  - first:
+      213: -4255707131848299102
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_34
+  - first:
+      213: 3839082848958263791
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_35
+  - first:
+      213: -7335393904329374464
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_36
+  - first:
+      213: 2199802088461567421
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_37
+  - first:
+      213: 771012621716851226
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_38
+  - first:
+      213: 1175011516076910797
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_39
+  - first:
+      213: 7220339350937947697
+    second: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+      - Flying Gnome_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 156
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0d5bacb50799c80800000000000000
+      internalID: -8315491697417662245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 158
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d010fcb1d67b15610800000000000000
+      internalID: 1608268221193847053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 155
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabed677053a94d00800000000000000
+      internalID: 957475961789344687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 156
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cc0e66c0e2f3ab0800000000000000
+      internalID: -5026248028321690520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 124
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2cf7d5a08371f90800000000000000
+      internalID: -6983051080045182220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 123
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5570b24047f0b2e0800000000000000
+      internalID: -2111916369867934372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 126
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c0ffb4510243930800000000000000
+      internalID: 4121954834792254610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 125
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1bd9af3409bf0b0800000000000000
+      internalID: -5693798682238012940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 126
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9433a0829577360800000000000000
+      internalID: 7167295360488131004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 123
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce0eebde80b25df0800000000000000
+      internalID: -192897706401853752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 86
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a32fc4abffeab620800000000000000
+      internalID: 2790806783190311848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 83
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de6f85f73daa6c90800000000000000
+      internalID: -7175732600406839595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 84
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe745be06514083c0800000000000000
+      internalID: -4359412601424885777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 85
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094fd787c684cbd00800000000000000
+      internalID: 989745648829854864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 85
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7021c5c2b09846f30800000000000000
+      internalID: 4567926603142402567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 85
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f3952983dd96eb0800000000000000
+      internalID: -4726003098905395363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 83
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eafce3f8bae35070800000000000000
+      internalID: 8094071035402189536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 83
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f51a8d18610c810800000000000000
+      internalID: 1783450199379762945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 86
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b83e702bd970ec0800000000000000
+      internalID: -3600735989097329764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 83
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee757351ea665c5e0800000000000000
+      internalID: -1889991570745763858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd778cafd57eb460800000000000000
+      internalID: 7259369252900535733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 44
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3f1718f404b1c20800000000000000
+      internalID: 3178204672258339746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 45
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26207b70cf511ccb0800000000000000
+      internalID: -4845567551868566942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838f237fcc2c1b030800000000000000
+      internalID: 3508799770274756664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 44
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7ea0d8ede45b8b0800000000000000
+      internalID: -5137113082190174273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 45
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbf8a10eaf16b970800000000000000
+      internalID: 8770232156563241927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 45
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6295e2f214300d620800000000000000
+      internalID: 2796738947096402214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1885d8b4bf06eead0800000000000000
+      internalID: -2671090896563513215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d2d03aef14110d0800000000000000
+      internalID: -3453906877303411449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_29
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36907c647bea66670800000000000000
+      internalID: 8531698646289680739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_30
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e69bfb93229c3a00800000000000000
+      internalID: 737625120620386024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 11
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ade51a49e0b0f4c0800000000000000
+      internalID: -4255707131848299102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005c1eccb12733a90800000000000000
+      internalID: -7335393904329374464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_39
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8e1c69fba7e4010800000000000000
+      internalID: 1175011516076910797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies
+        - Flying Gnome_40
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e4e6a726cc33460800000000000000
+      internalID: 7220339350937947697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f024e6815a038e240afc2a274c094ac6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_0: -8315491697417662245
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_1: 1608268221193847053
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_10: 2790806783190311848
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_11: -7175732600406839595
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_12: -4359412601424885777
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_13: 989745648829854864
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_14: 4567926603142402567
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_15: -4726003098905395363
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_16: 8094071035402189536
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_17: 1783450199379762945
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_18: -3600735989097329764
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_19: -1889991570745763858
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_2: 957475961789344687
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_20: 7259369252900535733
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_21: 3178204672258339746
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_22: -4845567551868566942
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_23: 3508799770274756664
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_24: -5137113082190174273
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_25: 8770232156563241927
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_26: 2796738947096402214
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_27: -2671090896563513215
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_28: -3453906877303411449
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_29: 8531698646289680739
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_3: -5026248028321690520
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_30: 737625120620386024
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_31: 1070743256754550478
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_32: -142505130005335715
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_33: 3595843708747827346
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_34: -4255707131848299102
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_35: 3839082848958263791
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_36: -7335393904329374464
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_37: 2199802088461567421
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_38: 771012621716851226
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_39: 1175011516076910797
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_4: -6983051080045182220
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_40: 7220339350937947697
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_5: -2111916369867934372
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_6: 4121954834792254610
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_7: -5693798682238012940
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_8: 7167295360488131004
+      3DS - Adventure Time_ Hey Ice King! Why'd You Steal Our Garbage_! - Enemies - Flying Gnome_9: -192897706401853752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

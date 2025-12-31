@@ -1,0 +1,2189 @@
+fileFormatVersion: 2
+guid: 51b49222f419a4f4b99fe50579bb98a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5345164036273813535
+    second: Finn Parte 8_0
+  - first:
+      213: 237863347484371177
+    second: Finn Parte 8_1
+  - first:
+      213: 2517761995806473380
+    second: Finn Parte 8_2
+  - first:
+      213: -5259665949289248846
+    second: Finn Parte 8_3
+  - first:
+      213: 557164714692888882
+    second: Finn Parte 8_4
+  - first:
+      213: -8990221508868497848
+    second: Finn Parte 8_5
+  - first:
+      213: -1641779699006029396
+    second: Finn Parte 8_6
+  - first:
+      213: 4919824668568291176
+    second: Finn Parte 8_7
+  - first:
+      213: 5877866390845794951
+    second: Finn Parte 8_8
+  - first:
+      213: 7782235156793610844
+    second: Finn Parte 8_9
+  - first:
+      213: 7548073482900677124
+    second: Finn Parte 8_10
+  - first:
+      213: 4296674030460311091
+    second: Finn Parte 8_11
+  - first:
+      213: 4163589994760409295
+    second: Finn Parte 8_12
+  - first:
+      213: 2433937082640493951
+    second: Finn Parte 8_13
+  - first:
+      213: -4338813445115611997
+    second: Finn Parte 8_14
+  - first:
+      213: 8362022415845642283
+    second: Finn Parte 8_15
+  - first:
+      213: -6992868417524758872
+    second: Finn Parte 8_16
+  - first:
+      213: 4329730055072899673
+    second: Finn Parte 8_17
+  - first:
+      213: -668228315426407623
+    second: Finn Parte 8_18
+  - first:
+      213: 2099626208422383627
+    second: Finn Parte 8_19
+  - first:
+      213: -178797930679928672
+    second: Finn Parte 8_20
+  - first:
+      213: 8284382218909137622
+    second: Finn Parte 8_21
+  - first:
+      213: -3664936583908079131
+    second: Finn Parte 8_22
+  - first:
+      213: -7040694737168897201
+    second: Finn Parte 8_23
+  - first:
+      213: -6389376999163057301
+    second: Finn Parte 8_24
+  - first:
+      213: 4944689606546981559
+    second: Finn Parte 8_25
+  - first:
+      213: 8516282874111858540
+    second: Finn Parte 8_26
+  - first:
+      213: -8753185348791585088
+    second: Finn Parte 8_27
+  - first:
+      213: -1412834884529057898
+    second: Finn Parte 8_28
+  - first:
+      213: 4674774876929884033
+    second: Finn Parte 8_29
+  - first:
+      213: -6713936005979698478
+    second: Finn Parte 8_30
+  - first:
+      213: -4725633311024564815
+    second: Finn Parte 8_31
+  - first:
+      213: 9000504246550578217
+    second: Finn Parte 8_32
+  - first:
+      213: 1329787488040476172
+    second: Finn Parte 8_33
+  - first:
+      213: 4266120887081231979
+    second: Finn Parte 8_34
+  - first:
+      213: -3536120531551024934
+    second: Finn Parte 8_35
+  - first:
+      213: -4472883862679113077
+    second: Finn Parte 8_36
+  - first:
+      213: 9062072387218695121
+    second: Finn Parte 8_37
+  - first:
+      213: 600388359357952210
+    second: Finn Parte 8_38
+  - first:
+      213: -2040633010863129733
+    second: Finn Parte 8_39
+  - first:
+      213: 2045441655147816519
+    second: Finn Parte 8_40
+  - first:
+      213: -3523025237038867118
+    second: Finn Parte 8_41
+  - first:
+      213: 3409113005723368236
+    second: Finn Parte 8_42
+  - first:
+      213: -9064298940807228108
+    second: Finn Parte 8_43
+  - first:
+      213: 3019711751615238957
+    second: Finn Parte 8_44
+  - first:
+      213: -3613253727127579996
+    second: Finn Parte 8_45
+  - first:
+      213: 8201699647640607409
+    second: Finn Parte 8_46
+  - first:
+      213: 5756036678420105177
+    second: Finn Parte 8_47
+  - first:
+      213: -7494615510695512352
+    second: Finn Parte 8_48
+  - first:
+      213: 8973391181901502262
+    second: Finn Parte 8_49
+  - first:
+      213: -326257919824627952
+    second: Finn Parte 8_50
+  - first:
+      213: -1829139575188645716
+    second: Finn Parte 8_51
+  - first:
+      213: -4636628925473908105
+    second: Finn Parte 8_52
+  - first:
+      213: -6735514837441763482
+    second: Finn Parte 8_53
+  - first:
+      213: -3570313202460143657
+    second: Finn Parte 8_54
+  - first:
+      213: 1164617432043420238
+    second: Finn Parte 8_55
+  - first:
+      213: -8347389880222190836
+    second: Finn Parte 8_56
+  - first:
+      213: 4519861030365141349
+    second: Finn Parte 8_57
+  - first:
+      213: 2080962877918027815
+    second: Finn Parte 8_58
+  - first:
+      213: 6410599102442826540
+    second: Finn Parte 8_59
+  - first:
+      213: -4022475951159234776
+    second: Finn Parte 8_60
+  - first:
+      213: 5732432076018227097
+    second: Finn Parte 8_61
+  - first:
+      213: 5662085693538736687
+    second: Finn Parte 8_62
+  - first:
+      213: 1535815802520703204
+    second: Finn Parte 8_63
+  - first:
+      213: 4471487717135898288
+    second: Finn Parte 8_64
+  - first:
+      213: -7875105132159542390
+    second: Finn Parte 8_65
+  - first:
+      213: -8514769615684858142
+    second: Finn Parte 8_66
+  - first:
+      213: -5453796087438293795
+    second: Finn Parte 8_67
+  - first:
+      213: 1924945443289156164
+    second: Finn Parte 8_68
+  - first:
+      213: 626043473100961467
+    second: Finn Parte 8_69
+  - first:
+      213: -7411127992051423331
+    second: Finn Parte 8_70
+  - first:
+      213: 692123932090967470
+    second: Finn Parte 8_71
+  - first:
+      213: 3678222923415071868
+    second: Finn Parte 8_72
+  - first:
+      213: -6518072607703757261
+    second: Finn Parte 8_73
+  - first:
+      213: 1680113684262068415
+    second: Finn Parte 8_74
+  - first:
+      213: 8009280935644583714
+    second: Finn Parte 8_75
+  - first:
+      213: -2636130008586502809
+    second: Finn Parte 8_76
+  - first:
+      213: -8482551895907009844
+    second: Finn Parte 8_77
+  - first:
+      213: -4676660770708691761
+    second: Finn Parte 8_78
+  - first:
+      213: 6748189935514618021
+    second: Finn Parte 8_79
+  - first:
+      213: 5392316899163353747
+    second: Finn Parte 8_80
+  - first:
+      213: -1922188853763578469
+    second: Finn Parte 8_81
+  - first:
+      213: -9152846370613299603
+    second: Finn Parte 8_82
+  - first:
+      213: -7364538438134802866
+    second: Finn Parte 8_83
+  - first:
+      213: -2287710326926144931
+    second: Finn Parte 8_84
+  - first:
+      213: -865913492733131972
+    second: Finn Parte 8_85
+  - first:
+      213: -6163543096175056925
+    second: Finn Parte 8_86
+  - first:
+      213: -2615751509021438732
+    second: Finn Parte 8_87
+  - first:
+      213: -1560571425157524289
+    second: Finn Parte 8_88
+  - first:
+      213: -8804550508511585396
+    second: Finn Parte 8_89
+  - first:
+      213: 7929641077824178024
+    second: Finn Parte 8_90
+  - first:
+      213: 2051237261327202116
+    second: Finn Parte 8_91
+  - first:
+      213: 7287503547126280024
+    second: Finn Parte 8_92
+  - first:
+      213: 1194764458162478613
+    second: Finn Parte 8_93
+  - first:
+      213: 8395505769381913484
+    second: Finn Parte 8_94
+  - first:
+      213: -174200294038008158
+    second: Finn Parte 8_95
+  - first:
+      213: 6805203306289700894
+    second: Finn Parte 8_96
+  - first:
+      213: 8778918953382853236
+    second: Finn Parte 8_97
+  - first:
+      213: -2767982408220724589
+    second: Finn Parte 8_98
+  - first:
+      213: 4131358523424096930
+    second: Finn Parte 8_99
+  - first:
+      213: 2001726499193694167
+    second: Finn Parte 8_100
+  - first:
+      213: 5025878953125268176
+    second: Finn Parte 8_101
+  - first:
+      213: -7631200608273775572
+    second: Finn Parte 8_102
+  - first:
+      213: -6123542400804307558
+    second: Finn Parte 8_103
+  - first:
+      213: 8076011320174732265
+    second: Finn Parte 8_104
+  - first:
+      213: -4072942977667402450
+    second: Finn Parte 8_105
+  - first:
+      213: 400820132189309830
+    second: Finn Parte 8_106
+  - first:
+      213: -2790900423470646474
+    second: Finn Parte 8_107
+  - first:
+      213: 3205072872687190811
+    second: Finn Parte 8_108
+  - first:
+      213: -8391897772747238038
+    second: Finn Parte 8_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Finn Parte 8_9
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 592
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c525d3f94ad000c60800000000000000
+      internalID: 7782235156793610844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 503
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4f131e82079c3c0800000000000000
+      internalID: -4338813445115611997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 503
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952e3f19b8a461c30800000000000000
+      internalID: 4329730055072899673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 503
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bb62633e9f9b6f0800000000000000
+      internalID: -668228315426407623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 503
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00dd1a89ee532d10800000000000000
+      internalID: 2099626208422383627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 503
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a87f37ba38c48df0800000000000000
+      internalID: -178797930679928672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_21
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 503
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da34ad4cb908f270800000000000000
+      internalID: 8284382218909137622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_22
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 503
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e943d73897832dc0800000000000000
+      internalID: -3664936583908079131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_23
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 503
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4be513907d6a4e90800000000000000
+      internalID: -7040694737168897201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_24
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 503
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ba5dcb87f5457a0800000000000000
+      internalID: -6389376999163057301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_25
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 503
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b28cc2cff01f9440800000000000000
+      internalID: 4944689606546981559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_26
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 503
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c671e2e172aef2670800000000000000
+      internalID: 8516282874111858540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 423
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924ca0fece638ec70800000000000000
+      internalID: 9000504246550578217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 423
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e5963ccaa547210800000000000000
+      internalID: 1329787488040476172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 423
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66e95b085e443b30800000000000000
+      internalID: 4266120887081231979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_35
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 423
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad88fe99c1d2deec0800000000000000
+      internalID: -3536120531551024934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_36
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 423
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b823f6343df1de1c0800000000000000
+      internalID: -4472883862679113077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_37
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 423
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3eb01c2d2f2cd70800000000000000
+      internalID: 9062072387218695121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_38
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 423
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d07fc62802055800800000000000000
+      internalID: 600388359357952210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_39
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 423
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b319e96173ea3e0800000000000000
+      internalID: -2040633010863129733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_40
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 423
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7466fdf195ed26c10800000000000000
+      internalID: 2045441655147816519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_41
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 423
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ddf837633bb1fc0800000000000000
+      internalID: -3523025237038867118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_42
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 423
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b3e49673a9f4f20800000000000000
+      internalID: 3409113005723368236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_43
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 423
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4355c375324253280800000000000000
+      internalID: -9064298940807228108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 352
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2543701e42bddc0800000000000000
+      internalID: -3613253727127579996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 352
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba9014006a42d170800000000000000
+      internalID: 8201699647640607409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_47
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 352
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7895bbcdc81ef40800000000000000
+      internalID: 5756036678420105177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_48
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 352
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e67cd4b6e6cdf790800000000000000
+      internalID: -7494615510695512352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 278
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfc9760f03b37ec0800000000000000
+      internalID: -3570313202460143657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 278
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c037aab512d182c80800000000000000
+      internalID: -8347389880222190836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_57
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 278
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5699b0de8a5c9be30800000000000000
+      internalID: 4519861030365141349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_58
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 278
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720241946b011ec10800000000000000
+      internalID: 2080962877918027815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_59
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 278
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bea8a3be507f850800000000000000
+      internalID: 6410599102442826540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_60
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 278
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f2a953f6b4d28c0800000000000000
+      internalID: -4022475951159234776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_61
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 278
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9971f16f990bd8f40800000000000000
+      internalID: 5732432076018227097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_62
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 278
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a923370f4c39e40800000000000000
+      internalID: 5662085693538736687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_67
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 206
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd443da9a593054b0800000000000000
+      internalID: -5453796087438293795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_68
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 206
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ac14f8ea7c6ba10800000000000000
+      internalID: 1924945443289156164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_69
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 206
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6722cc83720b800800000000000000
+      internalID: 626043473100961467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_70
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 206
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9722d86b52662990800000000000000
+      internalID: -7411127992051423331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_71
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 206
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea524d89c0bea9900800000000000000
+      internalID: 692123932090967470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_72
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 206
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7caad2c24cab0330800000000000000
+      internalID: 3678222923415071868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_73
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 206
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e0d9d5f772b85a0800000000000000
+      internalID: -6518072607703757261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_74
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 206
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0a6b48e76f05710800000000000000
+      internalID: 1680113684262068415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_75
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 206
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2275763739ea62f60800000000000000
+      internalID: 8009280935644583714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_76
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 206
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d347859b59a6bd0800000000000000
+      internalID: -2636130008586502809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_77
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 206
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca75af3efbe74a80800000000000000
+      internalID: -8482551895907009844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_78
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 206
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc467ea9ec9291fb0800000000000000
+      internalID: -4676660770708691761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_79
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 142
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8073f2ef266ad50800000000000000
+      internalID: 6748189935514618021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_80
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 142
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392b7fa66ab55da40800000000000000
+      internalID: 5392316899163353747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 142
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95e434fb630355e0800000000000000
+      internalID: -1922188853763578469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_82
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 142
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66fed348be8af080800000000000000
+      internalID: -9152846370613299603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_83
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 142
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46d34c3f47ebc990800000000000000
+      internalID: -7364538438134802866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_84
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 142
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a0396149b6040e0800000000000000
+      internalID: -2287710326926144931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_85
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 142
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c338c632448abf3f0800000000000000
+      internalID: -865913492733131972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_86
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 142
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7acaab532b67aa0800000000000000
+      internalID: -6163543096175056925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_87
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 142
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcc5148cdbf2bbd0800000000000000
+      internalID: -2615751509021438732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_88
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 142
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb45cdc9e8cb75ae0800000000000000
+      internalID: -1560571425157524289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_89
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 142
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b9e2506f3ffc580800000000000000
+      internalID: -8804550508511585396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_90
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 142
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8674e081c8ebb0e60800000000000000
+      internalID: 7929641077824178024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_92
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 78
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f6cd18dd9622560800000000000000
+      internalID: 7287503547126280024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_94
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 78
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8360c51404d28470800000000000000
+      internalID: 8395505769381913484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_95
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 78
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae881a61cd159df0800000000000000
+      internalID: -174200294038008158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_100
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d72de935af87cb10800000000000000
+      internalID: 2001726499193694167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_101
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dac42597428fb540800000000000000
+      internalID: 5025878953125268176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_102
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24c8168a77881690800000000000000
+      internalID: -7631200608273775572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_103
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d340161aec40ba0800000000000000
+      internalID: -6123542400804307558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_104
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e36c05d181c31070800000000000000
+      internalID: 8076011320174732265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_105
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2576b1f0fff977c0800000000000000
+      internalID: -4072942977667402450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_106
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b08fd59cfff8500800000000000000
+      internalID: 400820132189309830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_107
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 0
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b7b870adab449d0800000000000000
+      internalID: -2790900423470646474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_108
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 0
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13c2c7ebc4ba7c20800000000000000
+      internalID: 3205072872687190811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finn Parte 8_109
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 0
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a655208107df98b80800000000000000
+      internalID: -8391897772747238038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a4691c64e9506024c91e3e8e6888e35a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Finn Parte 8_0: -5345164036273813535
+      Finn Parte 8_1: 237863347484371177
+      Finn Parte 8_10: 7548073482900677124
+      Finn Parte 8_100: 2001726499193694167
+      Finn Parte 8_101: 5025878953125268176
+      Finn Parte 8_102: -7631200608273775572
+      Finn Parte 8_103: -6123542400804307558
+      Finn Parte 8_104: 8076011320174732265
+      Finn Parte 8_105: -4072942977667402450
+      Finn Parte 8_106: 400820132189309830
+      Finn Parte 8_107: -2790900423470646474
+      Finn Parte 8_108: 3205072872687190811
+      Finn Parte 8_109: -8391897772747238038
+      Finn Parte 8_11: 4296674030460311091
+      Finn Parte 8_12: 4163589994760409295
+      Finn Parte 8_13: 2433937082640493951
+      Finn Parte 8_14: -4338813445115611997
+      Finn Parte 8_15: 8362022415845642283
+      Finn Parte 8_16: -6992868417524758872
+      Finn Parte 8_17: 4329730055072899673
+      Finn Parte 8_18: -668228315426407623
+      Finn Parte 8_19: 2099626208422383627
+      Finn Parte 8_2: 2517761995806473380
+      Finn Parte 8_20: -178797930679928672
+      Finn Parte 8_21: 8284382218909137622
+      Finn Parte 8_22: -3664936583908079131
+      Finn Parte 8_23: -7040694737168897201
+      Finn Parte 8_24: -6389376999163057301
+      Finn Parte 8_25: 4944689606546981559
+      Finn Parte 8_26: 8516282874111858540
+      Finn Parte 8_27: -8753185348791585088
+      Finn Parte 8_28: -1412834884529057898
+      Finn Parte 8_29: 4674774876929884033
+      Finn Parte 8_3: -5259665949289248846
+      Finn Parte 8_30: -6713936005979698478
+      Finn Parte 8_31: -4725633311024564815
+      Finn Parte 8_32: 9000504246550578217
+      Finn Parte 8_33: 1329787488040476172
+      Finn Parte 8_34: 4266120887081231979
+      Finn Parte 8_35: -3536120531551024934
+      Finn Parte 8_36: -4472883862679113077
+      Finn Parte 8_37: 9062072387218695121
+      Finn Parte 8_38: 600388359357952210
+      Finn Parte 8_39: -2040633010863129733
+      Finn Parte 8_4: 557164714692888882
+      Finn Parte 8_40: 2045441655147816519
+      Finn Parte 8_41: -3523025237038867118
+      Finn Parte 8_42: 3409113005723368236
+      Finn Parte 8_43: -9064298940807228108
+      Finn Parte 8_44: 3019711751615238957
+      Finn Parte 8_45: -3613253727127579996
+      Finn Parte 8_46: 8201699647640607409
+      Finn Parte 8_47: 5756036678420105177
+      Finn Parte 8_48: -7494615510695512352
+      Finn Parte 8_49: 8973391181901502262
+      Finn Parte 8_5: -8990221508868497848
+      Finn Parte 8_50: -326257919824627952
+      Finn Parte 8_51: -1829139575188645716
+      Finn Parte 8_52: -4636628925473908105
+      Finn Parte 8_53: -6735514837441763482
+      Finn Parte 8_54: -3570313202460143657
+      Finn Parte 8_55: 1164617432043420238
+      Finn Parte 8_56: -8347389880222190836
+      Finn Parte 8_57: 4519861030365141349
+      Finn Parte 8_58: 2080962877918027815
+      Finn Parte 8_59: 6410599102442826540
+      Finn Parte 8_6: -1641779699006029396
+      Finn Parte 8_60: -4022475951159234776
+      Finn Parte 8_61: 5732432076018227097
+      Finn Parte 8_62: 5662085693538736687
+      Finn Parte 8_63: 1535815802520703204
+      Finn Parte 8_64: 4471487717135898288
+      Finn Parte 8_65: -7875105132159542390
+      Finn Parte 8_66: -8514769615684858142
+      Finn Parte 8_67: -5453796087438293795
+      Finn Parte 8_68: 1924945443289156164
+      Finn Parte 8_69: 626043473100961467
+      Finn Parte 8_7: 4919824668568291176
+      Finn Parte 8_70: -7411127992051423331
+      Finn Parte 8_71: 692123932090967470
+      Finn Parte 8_72: 3678222923415071868
+      Finn Parte 8_73: -6518072607703757261
+      Finn Parte 8_74: 1680113684262068415
+      Finn Parte 8_75: 8009280935644583714
+      Finn Parte 8_76: -2636130008586502809
+      Finn Parte 8_77: -8482551895907009844
+      Finn Parte 8_78: -4676660770708691761
+      Finn Parte 8_79: 6748189935514618021
+      Finn Parte 8_8: 5877866390845794951
+      Finn Parte 8_80: 5392316899163353747
+      Finn Parte 8_81: -1922188853763578469
+      Finn Parte 8_82: -9152846370613299603
+      Finn Parte 8_83: -7364538438134802866
+      Finn Parte 8_84: -2287710326926144931
+      Finn Parte 8_85: -865913492733131972
+      Finn Parte 8_86: -6163543096175056925
+      Finn Parte 8_87: -2615751509021438732
+      Finn Parte 8_88: -1560571425157524289
+      Finn Parte 8_89: -8804550508511585396
+      Finn Parte 8_9: 7782235156793610844
+      Finn Parte 8_90: 7929641077824178024
+      Finn Parte 8_91: 2051237261327202116
+      Finn Parte 8_92: 7287503547126280024
+      Finn Parte 8_93: 1194764458162478613
+      Finn Parte 8_94: 8395505769381913484
+      Finn Parte 8_95: -174200294038008158
+      Finn Parte 8_96: 6805203306289700894
+      Finn Parte 8_97: 8778918953382853236
+      Finn Parte 8_98: -2767982408220724589
+      Finn Parte 8_99: 4131358523424096930
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
